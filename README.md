@@ -1,4 +1,4 @@
-# MachineLearnings
+# Python Machine Learning using sci-kit
 
 Final Project:
 
